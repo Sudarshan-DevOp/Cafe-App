@@ -1,0 +1,38 @@
+Analyzing stitch_crave_cafe...                                  
+
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/main.dart:106:38 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/main.dart:186:72 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/main.dart:196:72 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/admin_dashboard.dart:256:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/admin_dashboard.dart:300:34 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/book_a_table.dart:47:42 • deprecated_member_use
+  error • Expected to find ';' • lib/screens/book_a_table.dart:66:11 • expected_token
+warning • Dead code • lib/screens/book_a_table.dart:66:12 • dead_code
+  error • Expected an identifier • lib/screens/book_a_table.dart:66:12 • missing_identifier
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:66:12 • unexpected_token
+  error • Expected to find ';' • lib/screens/book_a_table.dart:124:11 • expected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:124:12 • missing_identifier
+  error • Expected to find ';' • lib/screens/book_a_table.dart:124:12 • expected_token
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:124:12 • unexpected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:125:9 • missing_identifier
+  error • Expected to find ';' • lib/screens/book_a_table.dart:125:9 • expected_token
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:125:9 • unexpected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:125:10 • missing_identifier
+  error • Expected to find ';' • lib/screens/book_a_table.dart:125:10 • expected_token
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:125:10 • unexpected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:126:7 • missing_identifier
+  error • Expected to find ';' • lib/screens/book_a_table.dart:126:7 • expected_token
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:126:7 • unexpected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:126:8 • missing_identifier
+  error • Expected to find ';' • lib/screens/book_a_table.dart:126:8 • expected_token
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:126:8 • unexpected_token
+  error • Expected an identifier • lib/screens/book_a_table.dart:127:5 • missing_identifier
+  error • Unexpected text ';' • lib/screens/book_a_table.dart:127:5 • unexpected_token
+   info • Unnecessary empty statement • lib/screens/book_a_table.dart:127:6 • empty_statements
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/book_a_table.dart:419:60 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/landing_page.dart:42:36 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/landing_page.dart:112:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/landing_page.dart:113:55 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/landing_page.dart:185:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/login_sign_up.dart:47:37 • deprecated_member_use
+
